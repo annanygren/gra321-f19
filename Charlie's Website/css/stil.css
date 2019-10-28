@@ -14,11 +14,15 @@ body {
     padding: 5%;
     background-color: antiquewhite;
     text-align: left;
+    background-image: url("img/Bauhaus-Kaffee1.png");
     
 }
 img.charlies{
     position: absolute;
     padding-right: 8%;
+    max-width: 100%;
+    display: block;
+    margin: 0 auto 0 auto;
 }
 h1{
     text-align: left;
