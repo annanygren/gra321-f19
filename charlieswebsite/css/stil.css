@@ -9,18 +9,20 @@
   
 }
 
-li {
+.li{
   display: grid;
-  grid-gap: 5rem;
   grid-template-columns: 2fr 2fr 
   padding: 2rem;
   width: 80%;
 }
 .small {
     text-align: left;
+    grid-gap: 2rem;
+    width: 80%;
 }
 .medium {
 text-align: left;
+width: 80%;
 
 }
 .subheading{
