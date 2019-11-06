@@ -11,6 +11,9 @@
 
 .li{
   display: grid;
+grid-template-areas: 
+    " small medium"
+    "s m";
   grid-template-columns: 2fr 2fr 
   padding: 2rem;
   width: 80%;
